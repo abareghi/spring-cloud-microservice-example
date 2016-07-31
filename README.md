@@ -1,3 +1,5 @@
+* This is a fork from https://github.com/kbastani/spring-cloud-microservice-example. 
+
 # Spring Cloud Example Project
 
 An example project that demonstrates an end-to-end cloud-native platform using Spring Cloud for building a practical microservices architecture.
